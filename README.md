@@ -52,7 +52,15 @@ class MohdAbdulRazzaq:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arazzaq-forgit&layout=compact&theme=dark&hide_border=true&bg_color=0B0F1A&title_color=E05C3B&text_color=E2E8F0)
 
 ---
+🔭 Working on  → Enterprise AI Knowledge Assistant
 
+🌱 Learning    → Deep Learning, MLOps, LangChain
+
+👯 Open to     → AI/ML Internships & Collaborations
+
+💬 Ask me about→ RAG Systems, Python, ML
+
+⚡ Fun fact    → I run AI models 100% locally!
 ---
 
 ## 📫 Connect With Me
