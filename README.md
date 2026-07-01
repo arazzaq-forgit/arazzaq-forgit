@@ -23,7 +23,7 @@ class MohdAbdulRazzaq:
 | Project | Description | Tech |
 |---------|-------------|------|
 | ⚙️ [NL → App Config Compiler](https://github.com/arazzaq-forgit/nl2app) | Multi-stage pipeline that compiles natural language into validated UI/API/DB/Auth schemas with targeted repair engine — 85% success rate across 20 prompts | Python, FastAPI, Pydantic, Groq, SQLite |
-| 🧠 [Enterprise AI Knowledge Assistant](https://github.com/arazzaq-forgit/enterprise-ai-knowledge-ass...) | RAG system — chat with documents using local AI | Python, Ollama, ChromaDB, Streamlit |
+| 🧠 [Enterprise AI Knowledge Assistant](https://github.com/arazzaq-forgit/enterprise-ai-knowledge-assistant-v2) | RAG system — chat with documents using local AI | Python, Ollama, ChromaDB, Streamlit |
 | 🔍 [Credit Card Fraud Detection](https://github.com/arazzaq-forgit/credit-card-fraud-detection) | ML pipeline detecting fraud with 99%+ accuracy | Python, XGBoost, SMOTE |
 | 📧 [Spam Email Detection](https://github.com/arazzaq-forgit/Spam-email-detection) | NLP classifier detecting spam emails | Python, NLP |
 | 🏠 [House Price Prediction](https://github.com/arazzaq-forgit/House-price-prediction) | Regression model predicting house prices | Python, Regression |
